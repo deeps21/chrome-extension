@@ -1,1 +1,1 @@
-# chrome-extension
+# plain-text-chrome-extension
